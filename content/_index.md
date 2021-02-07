@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Hugo Business Theme.
+# lakoNET - Vaš Internet
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+lakoNET je novi i revolucionarni Internet koji Vas stavlja na prvo mjesto. Ne šalimo se, vi ste ne samo korisnik nego i punopravni partner.

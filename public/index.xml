@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on lakoNET</title>
+    <link>https://lakonethr.github.io/web/</link>
+    <description>Recent content in Home on lakoNET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hr</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://lakonethr.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet</title>
+      <link>https://lakonethr.github.io/web/services/internet/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/services/internet/</guid>
+      <description>Usluge superbrzog interneta bez kompromisa. Internet koji Vi koristite je Internet koji mi koristimo tako da možete biti sigurni da ćemo Vam pomoći.
+Ponuda Evo što Vam nudimo:
+ Brzinu od 50/50 jer asimetrično je kompliciranije Spoj optičkim kablom ili 5G antenom, bakar je za neko drugo doba  </description>
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>https://lakonethr.github.io/web/services/hosting/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/services/hosting/</guid>
+      <description>Usluge hostinga gdje vi kontrolirate što i kako. Uploadajte svoje podatke ili svoje aplikacije i prepustite nama da se brinemo za ostalo.</description>
+    </item>
+    
+    <item>
+      <title>Razvojna oprema</title>
+      <link>https://lakonethr.github.io/web/services/razvojna-oprema/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/services/razvojna-oprema/</guid>
+      <description>Ukoliko ste digitalni nomad, mi možemo držati Vašu opremu kod nas. Zahvaljujući brzoj vezi od minimalno 100/100 Mbita, možete pristupiti vašoj opremi kao da je pokraj Vas.</description>
+    </item>
+    
+    <item>
+      <title>Antstream</title>
+      <link>https://lakonethr.github.io/web/services/antstream/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/services/antstream/</guid>
+      <description>Naš partner Antstream omogućuje Vam streamanje igara na Vaš TV bez potrebe za jakim računalom ili skidanjem igara.</description>
+    </item>
+    
+    <item>
+      <title>TV i telefonija</title>
+      <link>https://lakonethr.github.io/web/services/tv/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/services/tv/</guid>
+      <description>U mogućnosti smo Vam ponuditi preko 100 TV programa i jeftine pozive unutar države preko našeg partnera.</description>
+    </item>
+    
+    <item>
+      <title>Vi</title>
+      <link>https://lakonethr.github.io/web/services/vi/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/services/vi/</guid>
+      <description>Vi, kao naši partneri ste ti koji omogućujete naše postojanje. Vi ste također osnovica naše infrastrukture te tako sudjelujete u stvaranju novog, decentraliziranog Interneta.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://lakonethr.github.io/web/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/contact/</guid>
+      <description>Za tehničku podršku smo Vam uvijek dostupni, za ostale informacije kao i potencijalna partnerstva, obratite nam se u sljedeće vrijeme:
+   Dan Radno vrijeme     Ponedjeljak 8:00 - 20:00   Utorak 8:00 - 20:00   Srijeda 8:00 - 20:00   Četvrtak 8:00 - 20:00   Petak 8:00 - 20:00   Subota Zatvoreno   Nedjelja Zatvoreno    </description>
+    </item>
+    
+    <item>
+      <title>O nama</title>
+      <link>https://lakonethr.github.io/web/about/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/about/</guid>
+      <description>Kao i Vama, i nama je dosta već sporog i nepouzdanog Interneta. Velikim igračima je naše područje neisplativo radi broja korisnika, a kao pojedinci nemamo dovoljno za promijeniti nešto. Stoga, poslušajte nas i udružimo se.
+Naša priča Jedan suvlasnik živi u Stobreču, a drugi u Podstrani. Već niz godina Podstrana nema dovoljno brz a ni pouzdan internet. Stobreč je napokon dobio brzi internet, međutim, to samo vrijedi za download, a ne i za upload.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,51 +1,21 @@
 ---
-title: 'About'
+title: 'O nama'
 date: 2018-02-22T17:01:34+07:00
 menu: 'main'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Kao i Vama, i nama je dosta već sporog i nepouzdanog Interneta. Velikim igračima je naše područje neisplativo radi broja korisnika, a kao pojedinci nemamo dovoljno za promijeniti nešto. Stoga, poslušajte nas i udružimo se.
 
-## Ne verba patulosque numen vix libet
+## Naša priča
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Jedan suvlasnik živi u Stobreču, a drugi u Podstrani. Već niz godina Podstrana nema dovoljno brz a ni pouzdan internet. Stobreč je napokon dobio brzi internet, međutim, to samo vrijedi za download, a ne i za upload. Današnjem svijetu su potrebne simetrične brzine od minimalno 50/50 Mbita. Takve brzine su trenutno jedino dostupne u poslovnim paketima neprihvatljive cijene.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Naš model
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+### Trenutno dostupno samo na područjima Stobreča i Podstrane
 
-## Postquam tamen
+Naš model postavlja Vas korisnike kao jednake partnere. Vi nam pomažete razviti infrastrukturu, ali ovaj put, ta infrastruktura ostaje u Vašem vlasništvu (nitko ne želi novu aferu oko telefonskih žica). Planiramo koristiti svjetlovodnu optiku i 5G mrežu kako bi uspostavili konekciju s Vama - mi Vam pomažemo odabrati i postaviti opremu i možemo izići u susret oko kreditiranja iste - ali ta oprema nakon svega ostaje u Vašem vlasništvu i mi ćemo platiti za uporabu iste - bilo snižavanjem mjesečne pretplate, bilo dijeljenjem zarade kao pravin vlasnicima.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+### Dostupno svim korisnicima/partnerima
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Za sve korisnike i digitalne nomade smo posebno namijenili usluge hostinga, kao i hosting fizičke opreme za razvoj ugradbenih sustava. Naše brzine data centra od minimalno 100/100 Mbita omogućuju Vam jednak pristup kao da je uređaj pokraj Vas, na radnom stolu. Ponesite samo laptop sa sobom, a ostalo prepustite nama.

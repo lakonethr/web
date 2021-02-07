@@ -1,10 +1,10 @@
 ---
-title: 'Services'
+title: 'Usluge'
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# Mi imamo rješenje za Vas
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Ukoliko imate potrebu za superbrzin internetom, hostingom ili uporabom razvojnih kitova, obratite nam se.
