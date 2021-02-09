@@ -9,4 +9,13 @@
     </li>
     {{end}}
   </ul>
+  <ul>
+    {{ range .Site.Home.AllTranslations }}
+    <li class="menu-item-{{ .Language }}{{ if eq .Language $.Language }} active{{ end }}">
+      <a href="{{ .Permalink }}">
+        <span>{{ .Language }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
 </div>

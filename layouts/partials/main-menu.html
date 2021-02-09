@@ -1,4 +1,13 @@
 <div id="main-menu" class="main-menu">
+  <ul style="float: right;">
+    {{ range .Site.Home.AllTranslations }}
+    <li class="menu-item-{{ .Language }}{{ if eq .Language $.Language }} active{{ end }}">
+      <a href="{{ .Permalink }}">
+        <span>{{ .Language }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
   <ul>
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
