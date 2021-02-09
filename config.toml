@@ -24,15 +24,15 @@ title = "lakoNET"
     alt = "lakoNET - Vaš Internet"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_description = "lakoNET je revolucionarni distribuirani internet servis koji stavlja korisnika na prvo mjesto."
     meta_og_title = "lakoNET"
     meta_og_type = "website"
     meta_og_url = "https://lakonethr.github.io/web/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_description = "lakoNET je revolucionarni distribuirani internet servis koji stavlja korisnika na prvo mjesto."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@lakonet1"
+    meta_twitter_creator = "@lakonet1"
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
