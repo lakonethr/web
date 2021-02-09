@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on lakoNET</title>
+    <link>https://lakonethr.github.io/web/en/services/</link>
+    <description>Recent content in Services on lakoNET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hr</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://lakonethr.github.io/web/en/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Internet</title>
+      <link>https://lakonethr.github.io/web/en/services/internet/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/en/services/internet/</guid>
+      <description>Superfast internet without compromise. The Internet we give is the same Internet we’re using so rest assured we’ll support it.
+Our offer Here&amp;rsquo;s what you get:
+ 50/50 Mbit/s because asymmetric just makes no sense Fibre optic or 5G connection, because copper is for an era that’s long gone  </description>
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>https://lakonethr.github.io/web/en/services/hosting/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/en/services/hosting/</guid>
+      <description>Hosting that you control. Upload your apps or data and let us worry about the rest.
+How Does It Work? Be it data or apps, we can host it for you, or you can join us in our hosting endeavor. Remember, we’re partners ;)
+Using modern technologies like IPFS and Kubernetes with Service Meshes, your data or apps are not bound to a single servers. That’s right, you and our other partners are really at the forefront.</description>
+    </item>
+    
+    <item>
+      <title>Development Boards</title>
+      <link>https://lakonethr.github.io/web/en/services/development-boards/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/en/services/development-boards/</guid>
+      <description>If you’re a digital nomad, you know the burden of carrying your equpiment with you. Thanks to our datacentre speeds, you are able to access your equipment directly without being able to tell the distance.</description>
+    </item>
+    
+    <item>
+      <title>Antstream</title>
+      <link>https://lakonethr.github.io/web/en/services/antstream/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/en/services/antstream/</guid>
+      <description>Our partner Antstream allows streaming games to your TV without the need for a strong gaming computer or long game downloads. So, finally, that Android Box does have a cool use :).</description>
+    </item>
+    
+    <item>
+      <title>TV &amp; Telephony</title>
+      <link>https://lakonethr.github.io/web/en/services/tv/</link>
+      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/en/services/tv/</guid>
+      <description>We’re able to offer over 100 TV programs and cheap calls within the country thanks to our partners.</description>
+    </item>
+    
+    <item>
+      <title>You</title>
+      <link>https://lakonethr.github.io/web/en/services/you/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://lakonethr.github.io/web/en/services/you/</guid>
+      <description>You, as our partners are the ones who make all of this real. You’re also the barebone of our infrastructure, participating in the creation of a new decentralized internet.</description>
+    </item>
+    
+  </channel>
+</rss>
