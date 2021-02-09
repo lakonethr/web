@@ -1,6 +1,12 @@
 baseURL = "https://lakonethr.github.io/web/"
 languageCode = "hr"
+defaultContentLanguage = "hr"
 title = "lakoNET"
+
+[languages]
+  [languages.hr]
+
+  [languages.en]
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -55,4 +61,25 @@ title = "lakoNET"
   [[menu.footer]]
     name = "Kontakt"
     url = "/contact/"
+      weight = 2
+
+  [[languages.en.menu.main]]
+    name = "Services"
+    url = "/en/services/"
+      weight = 1
+
+  [[languages.en.menu.main]]
+      name = "Partners"
+      url = "/en/partners/"
+      weight = 2
+
+  # Footer Menu
+  [[languages.en.menu.footer]]
+    name = "Main"
+    url = "/en/"
+      weight = 1
+
+  [[languages.en.menu.footer]]
+    name = "Contact"
+    url = "/en/contact/"
       weight = 2
