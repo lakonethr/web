@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# lakoNET - Your Internet
+# LakoNET - Your Internet
 
-lakoNET (lako meaning easy in Croatian) is a new revolutionary Internet Provider that puts you at the forefront. No fibs, you’re not just our user, but our partner as well.
+LakoNET (lako meaning easy in Croatian) is a new revolutionary Internet Provider that puts you at the forefront. No fibs, you’re not just our user, but our partner as well.

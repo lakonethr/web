@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on lakoNET</title>
+    <title>Home on LakoNET</title>
     <link>https://lakonethr.github.io/web/</link>
-    <description>Recent content in Home on lakoNET</description>
+    <description>Recent content in Home on LakoNET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hr</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://lakonethr.github.io/web/index.xml" rel="self" type="application/rss+xml" />

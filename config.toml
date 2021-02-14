@@ -1,7 +1,8 @@
 baseURL = "https://lakonethr.github.io/web/"
 languageCode = "hr"
 defaultContentLanguage = "hr"
-title = "lakoNET"
+title = "LakoNET"
+enableEmoji = true
 
 [languages]
   [languages.hr]
@@ -21,15 +22,15 @@ title = "lakoNET"
     mobile = "images/logo/logo-mobile.svg"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "lakoNET - Vaš Internet"
+    alt = "LakoNET - Vaš Internet"
 
   [params.homepage_meta_tags]
-    meta_description = "lakoNET je revolucionarni distribuirani internet servis koji stavlja korisnika na prvo mjesto."
-    meta_og_title = "lakoNET"
+    meta_description = "LakoNET je revolucionarni distribuirani internet servis koji stavlja korisnika na prvo mjesto."
+    meta_og_title = "LakoNET"
     meta_og_type = "website"
     meta_og_url = "https://lakonethr.github.io/web/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "lakoNET je revolucionarni distribuirani internet servis koji stavlja korisnika na prvo mjesto."
+    meta_og_description = "LakoNET je revolucionarni distribuirani internet servis koji stavlja korisnika na prvo mjesto."
     meta_twitter_card = "summary"
     meta_twitter_site = "@lakonet1"
     meta_twitter_creator = "@lakonet1"

@@ -5,7 +5,7 @@ layout: contact
 menu: 'main'
 ---
 
-We’re always there for technical support. For other enquiries, and potential partnerships, reach out to us during the following working hours:
+We’re always there for technical support. For other enquiries, and potential partnerships; reach out to us during the following working hours:
 
 | Day       | Working Hours |
 | --------- | ------------- |

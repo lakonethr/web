@@ -14,7 +14,7 @@ One of our cofounders is in Stobrec, the other in Podstrana. For years in row th
 
 ### Currently limited to Stobrec and Podstrana
 
-Our model puts the users as equal partners, helping to develop our infrastructure. Unlike before, the infrastructure is yours to keep and do with as you please (nobody wants another scandal around the ownership of telephone cabling). We are focusing on fibre and 5G networks to establish a link to you - we’ll help you choose and install the equipment and can even offer financing - but the equipment is yours to keep and we’ll reimburse you for usage - be it by lowering the fee or by profit splitting as we do with equal partners.
+Our model puts the users as equal partners, helping to develop our infrastructure. Unlike before, the infrastructure is yours to keep and do with as you please. Nobody wants another scandal around the ownership of telephone cabling. We are focusing on fibre and 5G networks to establish a link to you - we’ll help you choose and install the equipment and can even offer financing - but the equipment is yours to keep and we’ll reimburse you for usage - be it by lowering the fee or by profit splitting as we do with equal partners.
 
 ### Available globally
 

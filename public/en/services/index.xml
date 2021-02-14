@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on lakoNET</title>
+    <title>Services on LakoNET</title>
     <link>https://lakonethr.github.io/web/en/services/</link>
-    <description>Recent content in Services on lakoNET</description>
+    <description>Recent content in Services on LakoNET</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hr</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate><atom:link href="https://lakonethr.github.io/web/en/services/index.xml" rel="self" type="application/rss+xml" />
@@ -25,8 +25,8 @@ Our offer Here&amp;rsquo;s what you get:
       
       <guid>https://lakonethr.github.io/web/en/services/hosting/</guid>
       <description>Hosting that you control. Upload your apps or data and let us worry about the rest.
-How Does It Work? Be it data or apps, we can host it for you, or you can join us in our hosting endeavor. Remember, we’re partners ;)
-Using modern technologies like IPFS and Kubernetes with Service Meshes, your data or apps are not bound to a single servers. That’s right, you and our other partners are really at the forefront.</description>
+How Does It Work? Be it data or apps, we can host it for you, or you can join us in our hosting endeavor. Remember, we’re partners. 😉
+Using modern technologies like IPFS and Kubernetes with Service Meshes, your data or apps are not bound to a single server. That’s right, you and our other partners are really at the forefront.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ Using modern technologies like IPFS and Kubernetes with Service Meshes, your dat
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
       <guid>https://lakonethr.github.io/web/en/services/antstream/</guid>
-      <description>Our partner Antstream allows streaming games to your TV without the need for a strong gaming computer or long game downloads. So, finally, that Android Box does have a cool use :).</description>
+      <description>Our partner Antstream allows streaming games to your TV without the need for a strong gaming computer or long game downloads. So, finally, that Android Box does have a cool use. 😄</description>
     </item>
     
     <item>
