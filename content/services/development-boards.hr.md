@@ -7,3 +7,5 @@ weight: 3
 ---
 
 Ukoliko ste digitalni nomad, mi možemo držati Vašu opremu kod nas. Zahvaljujući brzoj vezi od minimalno 100/100 Mbita, možete pristupiti vašoj opremi kao da je pokraj Vas.
+
+![Xilinx ZCU106](/web/images/zcu106-evaluation-board.jpg)

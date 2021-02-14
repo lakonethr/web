@@ -8,7 +8,7 @@ weight: 1
 
 Superfast internet **without compromise**. The Internet we give is the same Internet we’re using so rest assured we’ll support it.
 
-![Accounting Services](/web/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![On The Go Internet](/web/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Our offer
 
