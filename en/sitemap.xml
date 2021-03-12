@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>https://lakonethr.github.io/web/en/services/antstream/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hr"
-                href="https://lakonethr.github.io/web/services/antstream/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lakonethr.github.io/web/en/services/antstream/"
-                />
-  </url>
-  
-  <url>
     <loc>https://lakonethr.github.io/web/en/services/tv/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
     <xhtml:link
@@ -94,7 +79,7 @@
   
   <url>
     <loc>https://lakonethr.github.io/web/en/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
@@ -109,7 +94,7 @@
   
   <url>
     <loc>https://lakonethr.github.io/web/en/services/</loc>
-    <lastmod>2018-11-28T15:15:34+10:00</lastmod>
+    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
